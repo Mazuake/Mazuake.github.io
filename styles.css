@@ -26,7 +26,7 @@ body {
 #header-title {
   display: block;
   float: left;
-  font-size: 21px;
+  font-size: 20px;
   font-weight: bold;
 }
 
@@ -38,7 +38,7 @@ body {
 
 #header-nav li {
   display: inline;
-  padding-left: 20px;
+  padding-left: 21px;
 }
 
 .container {
